@@ -1,5 +1,5 @@
 ---
-title: 'Surf Coaching come to Indonesia'
+title: 'Surf Coaching comes to Indonesia'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Aug 15 2025'
 heroImage: '../../assets/images/example-blog-hero8.jpg'
