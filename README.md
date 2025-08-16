@@ -244,7 +244,7 @@ Notes:
 - By tag: `/rss/tag/<tag-slug>.xml`
 - By category: `/rss/category/<category-slug>.xml`
 
-Tip: Feed readers can auto‑discover tag/category feeds via the `<link rel="alternate" type="application/rss+xml">` tags we include on those pages. The footer also provides quick links for Feedly/Inoreader and a “Copy RSS link” action.
+Tip: Feed readers can auto‑discover tag/category feeds via the `<link rel="alternate" type="application/rss+xml">` tags we include on those pages. The footer also provides quick links for SuccessCX/Inoreader and a “Copy RSS link” action.
 
 ## 🔎 SEO details
 
