@@ -18,7 +18,7 @@ function sanitizeToWhite(svg: string, size = 18) {
 
 const contactIcon = sanitizeToWhite(contactIconRaw);
 const feedUrl = new URL('rss.xml', Astro.site).toString();
-const SuccessCXUrl = `https://SuccessCX.com/i/subscription/feed/${feedUrl}`;
+const SuccessCXUrl = `https://help.successcx.com/hc/en-au/${feedUrl}`;
 const inoreaderUrl = `https://www.inoreader.com/?add_feed=${feedUrl}`;
 ---
 
